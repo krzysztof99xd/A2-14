@@ -13,7 +13,7 @@ In this submission the follwoing files are attached:
 How to run the source code:
 Open the IDE of your choice, such as VScode, or JupyterLab. 
 It is recommended that you set up a virtual environment. This could be done with the following command: 'python -m venv .venv'. Python version for this assignment is 3.12.4.
-Activate your virtual envorinment and run `python -m pip install -r requirements.txt`.
+Activate your virtual envorinment (if `.venv` folder is in the same directory then you can use the following command: `venv\Scripts\activate`) and run `python -m pip install -r requirements.txt`.
 
 
 List of contributors:
