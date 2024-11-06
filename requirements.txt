@@ -7,3 +7,4 @@ scikit-learn==1.5.1
 ipykernel==6.29.5
 bertopic
 unidecode
+pyLDAvis
