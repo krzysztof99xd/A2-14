@@ -8,7 +8,14 @@ This assignment works on a topic modeling task. The goal of the task is to gain 
 In this submission the follwoing files are attached:
 - 'A2-14.ipynb` Jupyer notebook file with the source code for the assignment
 - 'A2-14.pdf' PDF file that consists of report for the assignment
-- `requirements.txt` consists of list of necessary Python packages for running the source code
+- 'BERT.ipynb' Jupyter notebook with experiments for Bert model
+- 'FLSA-W.ipynb' Jupyter notebook with experiments for FLSA-W model
+- 'LDA.ipynb' Jupyter notebook with experiments for LDA model
+- 'Experiments with FLSA-W.ipynb' Jupyter notebook with experiments for FLSA-W model
+- 'README.md'
+- 'filtered_corpus.csv' filtered corpus used for running the experiments 
+- 'lda_visualization.html' html where topics from LDA model are visualized  
+- 'requirements.txt' required Python packages to run the code
 
 How to run the source code:
 Open the IDE of your choice, such as VScode, or JupyterLab. 
